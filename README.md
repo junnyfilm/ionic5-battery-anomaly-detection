@@ -1,9 +1,7 @@
 # ionic5-battery-anomaly-detection
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/cbbebd30-e681-47e0-9048-75c6faebc7af/e6865f8b-453f-4c5b-a355-34d1b5ee1c64/Untitled.png)
+
+![image](https://github.com/junnyfilm/ionic5-battery-anomaly-detection/assets/109502364/8f81d8e6-0905-45a2-aabd-1d987e83f526)
+![Uploading 스크린샷 2023-09-08 오전 2.19.54.png…]()
 
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a4e34bd2-fa60-4e1e-8217-05757482951c/Untitled.png)
-
-
-
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/cbbebd30-e681-47e0-9048-75c6faebc7af/4a107656-7a10-48ca-ac09-03de982ebe1e/Untitled.png)
+<img width="681" alt="스크린샷 2023-09-08 오전 2 19 10" src="https://github.com/junnyfilm/ionic5-battery-anomaly-detection/assets/109502364/e299c2f1-888d-4c1e-89fa-be2e69d07308">
